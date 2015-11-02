@@ -87,7 +87,5 @@ namespace Components4
             updatelocation();
             r = new Rectangle(input0.Width / 2, 0, this.Width - input0.Width - 1, this.Height - 1);
         }
-
-
     }
 }
